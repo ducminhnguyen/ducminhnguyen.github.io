@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ducminhnguyen.github.io
+name: A simple blog
+description: This blog is created for me to share about what I am doing.
+author: Duc Minh Nguyen
+avatar: http://www.gravatar.com/avatar/7b3b5420673536088890b766300d1c12?s=120&d=mm&r=g
+ga_domain: 
+ga_tracking_id: 
